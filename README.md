@@ -8,6 +8,11 @@
 
 <br>
 
+[![Español](https://img.shields.io/badge/Idioma-Español-0A66C2?style=for-the-badge)](./README.md)
+[![English](https://img.shields.io/badge/Language-English-181717?style=for-the-badge)](./README_EN.md)
+
+<br><br>
+
 <img src="https://img.shields.io/badge/FLIGO-Software_Development-181717?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Full_Stack-Development-0A66C2?style=for-the-badge&logo=code&logoColor=white" />
 <img src="https://img.shields.io/badge/AI_Assisted-Development-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -232,5 +237,9 @@ Integro herramientas de **Inteligencia Artificial** como apoyo dentro del flujo 
 <br>
 
 `Analizar` · `Desarrollar` · `Integrar` · `Probar` · `Mantener` · `Mejorar`
+
+<br><br>
+
+[🇪🇸 Español](./README.md) · [🇺🇸 English](./README_EN.md)
 
 </div>
