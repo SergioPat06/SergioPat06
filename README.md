@@ -1,122 +1,88 @@
 <div align="center">
 
-# 👋 Hola, soy Sergio
+# Sergio Pat
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Developer;Full+Stack+Development;PHP+%7C+TypeScript+%7C+Python;Frontend+%2B+Backend+%2B+Databases;AI+Assisted+Development"
-  alt="Typing SVG"
-/>
+### Software Developer @ Fligo
 
-<br>
-
-### 💻 Desarrollo de software · Integración de sistemas · Soluciones web
-
-Trabajo en el desarrollo y mantenimiento de aplicaciones, participando en diferentes áreas del ciclo de desarrollo, desde **frontend y backend hasta bases de datos, integración y soporte técnico**.
+**Desarrollo Full Stack · Integración de Sistemas · Mantenimiento de Software**
 
 <br>
 
-<img src="https://img.shields.io/badge/Software_Development-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Full_Stack-0A66C2?style=for-the-badge&logo=code&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Assisted-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/FLIGO-Software_Development-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full_Stack-Development-0A66C2?style=for-the-badge&logo=code&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Assisted-Development-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
 </div>
 
 ---
 
-## 👨‍💻 Perfil
+## Perfil Profesional
 
-```typescript
-const sergio = {
-  role: "Software Developer",
+Desarrollador de Software en **Fligo**, participando en el desarrollo, mantenimiento y evolución de soluciones de software.
 
-  areas: [
-    "Frontend Development",
-    "Backend Development",
-    "Database Management",
-    "System Integration"
-  ],
+Mi trabajo abarca distintas áreas del ciclo de desarrollo, incluyendo **frontend, backend, bases de datos, integración de sistemas, mantenimiento y resolución de incidencias**.
 
-  languages: [
-    "TypeScript",
-    "JavaScript",
-    "PHP",
-    "Python",
-    "HTML",
-    "CSS"
-  ],
-
-  approach: [
-    "Código mantenible",
-    "Arquitectura organizada",
-    "Resolución de problemas",
-    "Mejora continua"
-  ]
-};
-```
-
-Participo en el **desarrollo, mantenimiento y evolución de aplicaciones**, trabajando con diferentes tecnologías de acuerdo con las necesidades de cada proyecto.
-
-Mi enfoque está orientado a construir soluciones organizadas, mantenibles y preparadas para evolucionar.
+Me enfoco en desarrollar soluciones organizadas, mantenibles y adaptables a las necesidades de cada proyecto.
 
 ---
 
-# ⚡ Tech Stack & Herramientas
+## Stack Tecnológico
 
 <div align="center">
 
 <img
   src="https://skillicons.dev/icons?i=ts,js,php,laravel,python,html,css,mysql,postgres,git,github,vscode"
-  alt="Tech Stack"
+  alt="Stack Tecnológico"
 />
 
 <br><br>
 
-**🎨 Frontend**  
+**Frontend**  
 `TypeScript` · `JavaScript` · `HTML5` · `CSS3`
 
-**⚙️ Backend**  
+**Backend**  
 `PHP` · `Laravel` · `Python`
 
-**🗄️ Bases de Datos**  
+**Bases de Datos**  
 `MySQL` · `PostgreSQL` · `MariaDB`
 
-**🛠️ Herramientas**  
+**Herramientas**  
 `Git` · `GitHub` · `VS Code` · `Composer`
 
 </div>
 
 ---
 
-# 🏗️ Áreas de trabajo
+## Áreas de Trabajo
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🎨 Frontend Development
+### Desarrollo Frontend
 
-Desarrollo y mantenimiento de interfaces web orientadas a ofrecer experiencias funcionales y mantenibles.
+Desarrollo y mantenimiento de interfaces y aplicaciones web.
 
 - Desarrollo de interfaces
 - Integración con backend
-- Componentes reutilizables
+- Implementación de funcionalidades
 - Mantenimiento de aplicaciones
-- Resolución de incidencias
+- Análisis y resolución de errores
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚙️ Backend Development
+### Desarrollo Backend
 
-Desarrollo de lógica de negocio y componentes del lado del servidor.
+Desarrollo y mantenimiento de lógica y componentes del lado del servidor.
 
 - PHP / Laravel
+- Python
 - Lógica de negocio
-- Gestión de datos
-- Validaciones
-- Integración entre sistemas
+- Procesamiento de información
+- Integración entre componentes
 
 </td>
 
@@ -126,9 +92,9 @@ Desarrollo de lógica de negocio y componentes del lado del servidor.
 
 <td width="50%" valign="top">
 
-### 🗄️ Bases de Datos
+### Bases de Datos
 
-Trabajo con bases de datos relacionales para almacenamiento y gestión de información.
+Trabajo con bases de datos relacionales para la gestión y persistencia de información.
 
 - MySQL
 - PostgreSQL
@@ -140,15 +106,15 @@ Trabajo con bases de datos relacionales para almacenamiento y gestión de inform
 
 <td width="50%" valign="top">
 
-### 🔧 Mantenimiento
+### Mantenimiento y Soporte
 
-Participación en mantenimiento y evolución de sistemas existentes.
+Mantenimiento y evolución continua de sistemas existentes.
 
-- Corrección de errores
-- Refactorización
+- Resolución de incidencias
+- Debugging
 - Análisis de código
+- Refactorización
 - Implementación de mejoras
-- Soporte técnico
 
 </td>
 
@@ -157,135 +123,114 @@ Participación en mantenimiento y evolución de sistemas existentes.
 
 ---
 
-# 🤖 IA aplicada al desarrollo
+## Flujo de Desarrollo
 
-Utilizo herramientas de **Inteligencia Artificial como complemento dentro del proceso de desarrollo**, principalmente para acelerar análisis, investigación y tareas repetitivas.
+<div align="center">
+
+```text
+Análisis
+   │
+   ▼
+Diseño
+   │
+   ▼
+Desarrollo
+   │
+   ├── Frontend
+   ├── Backend
+   └── Base de Datos
+   │
+   ▼
+Pruebas y Debugging
+   │
+   ▼
+Revisión
+   │
+   ▼
+Implementación
+   │
+   ▼
+Mantenimiento y Mejora
+```
+
+</div>
+
+---
+
+## Inteligencia Artificial aplicada al Desarrollo
+
+Integro herramientas de **Inteligencia Artificial** como apoyo dentro del flujo de desarrollo para mejorar la productividad, facilitar el análisis y optimizar determinadas tareas técnicas.
 
 <div align="center">
 
 <img
   src="https://img.shields.io/badge/AI_Assisted_Development-412991?style=for-the-badge&logo=openai&logoColor=white"
+  alt="AI Assisted Development"
 />
 
 <img
   src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white"
+  alt="Prompt Engineering"
 />
 
 </div>
 
 <br>
 
-### ⚡ Aplicaciones dentro del workflow
+**Aplicaciones dentro del flujo de trabajo:**
 
-- 🧠 Análisis y resolución de problemas
-- 🐛 Debugging
-- 🔍 Revisión y comprensión de código
-- 📖 Documentación técnica
-- 🏗️ Análisis de arquitectura
-- 🧪 Apoyo en testing
-- ♻️ Refactorización
-- ⚡ Automatización de tareas repetitivas
+- Análisis y comprensión de código
+- Debugging y resolución de problemas
+- Revisión y mejora de código
+- Documentación técnica
+- Apoyo en pruebas
+- Refactorización
+- Investigación técnica
+- Automatización de tareas repetitivas
 
-> La IA forma parte del flujo de trabajo como herramienta de apoyo, manteniendo la revisión y las decisiones técnicas dentro del proceso de desarrollo.
+> La Inteligencia Artificial se utiliza como herramienta de apoyo, manteniendo la revisión y el criterio técnico sobre las decisiones e implementaciones realizadas.
 
 ---
 
-# 🔥 Actividad en GitHub
+## Actividad en GitHub
 
 <div align="center">
 
 <img
   src="https://streak-stats.demolab.com?user=SergioPat06&theme=github-dark-blue&hide_border=true"
-  alt="GitHub Activity"
+  alt="Actividad en GitHub"
 />
 
 </div>
 
 ---
 
-# 🧩 Workflow
-
-```text
-          ┌─────────────────────┐
-          │      Análisis       │
-          └──────────┬──────────┘
-                     │
-                     ▼
-          ┌─────────────────────┐
-          │       Diseño        │
-          └──────────┬──────────┘
-                     │
-                     ▼
-    ┌─────────────────────────────────┐
-    │          Desarrollo             │
-    │                                 │
-    │   Frontend  ↔  Backend  ↔  DB   │
-    └────────────────┬────────────────┘
-                     │
-                     ▼
-          ┌─────────────────────┐
-          │   Testing / Debug   │
-          └──────────┬──────────┘
-                     │
-                     ▼
-          ┌─────────────────────┐
-          │      Revisión       │
-          └──────────┬──────────┘
-                     │
-                     ▼
-          ┌─────────────────────┐
-          │   Mejora continua   │
-          └─────────────────────┘
-```
-
----
-
-# 🧠 Enfoque
+## Enfoque Técnico
 
 <div align="center">
 
 | Área | Enfoque |
-|:---:|:---|
-| 🎨 **Frontend** | Desarrollo e integración de interfaces |
-| ⚙️ **Backend** | Lógica de negocio y aplicaciones web |
-| 🗄️ **Databases** | Gestión y consulta de información |
-| 🔄 **Integración** | Comunicación entre componentes |
-| 🤖 **IA** | Apoyo al desarrollo y productividad |
-| 🐛 **Debugging** | Análisis y resolución de problemas |
-| ♻️ **Mantenimiento** | Evolución y mejora de sistemas |
+|:---|:---|
+| **Frontend** | Desarrollo e integración de interfaces web |
+| **Backend** | Lógica de negocio y aplicaciones |
+| **Bases de Datos** | Gestión y persistencia de información |
+| **Integración** | Comunicación entre componentes |
+| **Debugging** | Análisis y resolución de incidencias |
+| **Mantenimiento** | Evolución y mejora de sistemas |
+| **IA** | Asistencia al desarrollo y productividad |
 
 </div>
 
 ---
 
-# 🎯 Desarrollo profesional
-
-```text
-✓ Desarrollo Full Stack
-✓ Trabajo con diferentes stacks tecnológicos
-✓ Desarrollo y mantenimiento de aplicaciones
-✓ Integración Frontend ↔ Backend
-✓ Gestión de bases de datos
-✓ Uso de IA dentro del workflow
-
-→ Arquitecturas más escalables
-→ Testing y calidad de software
-→ Seguridad de aplicaciones
-→ Optimización de rendimiento
-→ Automatización de procesos
-→ Mejores prácticas de desarrollo
-```
-
----
-
 <div align="center">
 
-### 💻 Software Development
+## Fligo · Software Development
 
-**Frontend · Backend · Databases · Integration · AI Assisted Development**
+**Desarrollo Full Stack · Integración · Mantenimiento · Mejora Continua**
 
 <br>
 
-> Construyendo, manteniendo y mejorando soluciones de software.
+`Analizar` · `Desarrollar` · `Integrar` · `Probar` · `Mantener` · `Mejorar`
 
 </div>
